@@ -1,6 +1,6 @@
 // CacaoLab · service worker
 // Al publicar una versión nueva de index.html, cambia CACHE_NAME (por ejemplo, de -C1 a -C2) y VERSION en index.html.
-const CACHE_NAME = "cacaolab-2026.10.07-C1";
+const CACHE_NAME = "cacaolab-2026.10.07-C2";
 const CORE = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png"];
 const CDN = [
   "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js",
